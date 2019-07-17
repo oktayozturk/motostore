@@ -1,0 +1,18 @@
+export const data = {
+    categories : ['Jacket', 'Helmet', 'Protection', 'Accesories'],
+    
+    products : [
+            {id: 1, name:'P1', category: 'Jacket',
+                description: 'P1 (Jacket)', price : 3},
+            {id: 2, name:'P2', category: 'Jacket',
+                description: 'P2 (Jacket)', price : 4},
+            {id: 3, name:'P3', category: 'Accesories',
+                description: 'P3 (Accesories)', price : 5},
+            {id: 4, name:'P4', category: 'Protection',
+                description: 'P4 (Protection)', price : 6},
+            {id: 5, name:'P5', category: 'Protection',
+                description: 'P5 (Protection)', price : 7},
+        ]
+
+}
+
